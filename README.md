@@ -1,5 +1,5 @@
 # Folium-Visualization
-This notebook, which is for educational purposes, shows a heat map of south Koreans infected with Corona Virus and where they visited on a map
+This notebook, which is for educational purposes, shows a heat map of where south Koreans infected with Corona Virus, visited on a map.
 
 ## Alternate Link
 In order to view the map, kindly click [here](https://nbviewer.jupyter.org/github/Uchencho/Folium-Visualization/blob/master/map_visualizations.ipynb) to view the notebook
